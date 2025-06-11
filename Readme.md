@@ -114,3 +114,15 @@ Backend(SpringBoot.Java):
 - **Services:** Business logic
 - **Entities:** Database models
 - **Repositories:** Data access layer
+
+## Project Scrrenshots:
+### Home Page:
+- ![Screenshot 2025-06-11 235922](https://github.com/user-attachments/assets/dfde63c8-49e2-4f9b-933b-102158bfda6a)
+
+
+### AddEmployee Page:
+- ![Screenshot 2025-06-11 235644](https://github.com/user-attachments/assets/657f8e3b-419e-4965-a5a6-aa51c35074ac)
+
+
+### EditEmployee Page:
+- ![Screenshot 2025-06-11 235850](https://github.com/user-attachments/assets/370ce9a2-0c29-4d83-bec1-483195244547)
