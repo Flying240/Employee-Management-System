@@ -69,7 +69,7 @@ npm run dev
 
 ## 📐 System Architecture
 
-```mermaid
+```
 graph TD
     subgraph Frontend[Frontend Layer]
         A[React Components] --> B[Context API]
