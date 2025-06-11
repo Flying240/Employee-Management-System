@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+
+        <!-- Favicon for the browser tab -->
+        <link
+            rel="icon"
+            type="image/svg+xml"
+            href="/vite.svg"
+        />
+
+        <!-- Makes the page responsive on all devices -->
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0"
+        />
+
+        <!-- Title shown in the browser tab -->
+        <title>EMS Frontend</title>
+    </head>
+    <body>
+        <!--! This is the main entry point for your React application. -->
+        <!--! Vite will start loading your React app from /src/main.jsx. -->
+        <!--? Since it's marked as type="module", the browser understands it as a JavaScript module (which supports import, export). -->
+        <!--? The <script> tag is used to embed a client-side script (JavaScript) -->
+        <script
+            type="module"
+            src="/src/main.jsx"
+        ></script>
+
+        <!--! This is the placeholder (a container) where your entire frontend app will be rendered by React DOM. -->
+        <!-- using: ReactDOM.createRoot(document.getElementById('root')) -->
+        <div id="root"></div>
+    </body>
+</html>
